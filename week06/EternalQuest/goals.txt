@@ -1,0 +1,7 @@
+100950
+Transcendent
+EternalGoal|Study the Scriptures|Daily feasting on the word of God|75
+ChecklistGoal|Eat breakfast for a month|Make a habit of not skipping breakfasts|50|30|500|5
+SimpleGoal|Run a marathon|Go get that!|1000|False
+SimpleGoal|Do a push-up|Start the fire!|50|True
+SimpleGoal|Marry in the temple|Marry!|100000|True
